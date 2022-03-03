@@ -1,0 +1,25 @@
+.h1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.h2 {
+    display: flex;
+    text-align: center;
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.p1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    font-size: 18px;
+}
