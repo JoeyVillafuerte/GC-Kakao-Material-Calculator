@@ -1,0 +1,163 @@
+[
+    {
+        "name": "0",
+        "essence": "20",
+        "cubes": "0",
+        "dupes": "0",
+        "core": "20 essence"
+    },
+    {
+        "name": "1",
+        "essence": "35",
+        "cubes": "0",
+        "dupes": "0",
+        "core": "Unlocked"
+    },
+    {
+        "name": "2",
+        "essence": "65",
+        "cubes": "250",
+        "dupes": "0",
+        "core": "Unlocked"
+    },
+    {
+        "name": "3",
+        "essence": "95",
+        "cubes": "250",
+        "dupes": "0",
+        "core": "Unlocked"
+    },
+    {
+        "name": "4",
+        "essence": "125",
+        "cubes": "250",
+        "dupes": "0",
+        "core": "Unlocked"
+    },
+    {
+        "name": "5",
+        "essence": "155",
+        "cubes": "250 for body core unlock",
+        "dupes": "1",
+        "core": "Body core = 100 essence"
+    },
+    {
+        "name": "6",
+        "essence": "415",
+        "cubes": "500 total",
+        "dupes": "2",
+        "core": "Unlocked"
+    },
+    {
+        "name": "7",
+        "essence": "535",
+        "cubes": "750 total",
+        "dupes": "3",
+        "core": "Unlocked"
+    },
+    {
+        "name": "8",
+        "essence": "655",
+        "cubes": "1000 total",
+        "dupes": "0",
+        "core": "Unlocked"
+    },
+    {
+        "name": "9",
+        "essence": "775",
+        "cubes": "1250 total",
+        "dupes": "0",
+        "core": "Unlocked"
+    },
+    {
+        "name": "10",
+        "essence": "895, + 225 for core unlock = 1120",
+        "cubes": "1500 + 250 for soul unlock = 1750",
+        "dupes": "1 for soul unlock",
+        "core": "Soul core = 225 essence"
+    },
+    {
+        "name": "11",
+        "essence": "1270",
+        "cubes": "2000 total",
+        "dupes": "8",
+        "core": "Unlocked"
+    },
+    {
+        "name": "12",
+        "essence": "1570",
+        "cubes": "2250 total",
+        "dupes": "9",
+        "core": "Unlocked"
+    },
+    {
+        "name": "13",
+        "essence": "1870",
+        "cubes": "2500 total",
+        "dupes": "10",
+        "core": "Unlocked"
+    },
+    {
+        "name": "14",
+        "essence": "2170",
+        "cubes": "2750 total",
+        "dupes": "11",
+        "core": "Unlocked"
+    },
+    {
+        "name": "15",
+        "essence": "2470",
+        "cubes": "3000 total",
+        "dupes": "12",
+        "core": "Unlocked"
+    },
+
+
+    {
+        "name": "Mind Unlock",
+        "essence": "20",
+        "cubes": "0"
+    },
+    {
+        "name": "Body Unlock",
+        "essence": "150",
+        "cubes": "250"
+    },
+    {
+        "name": "Soul Unlock",
+        "essence": "225",
+        "cubes": "250"
+    },
+
+    {
+        "class": "Assault",
+        "orange": "Check",
+        "purple": "None",
+        "blue": "Check"
+    },
+    {
+        "class": "Ranger",
+        "orange": "Check",
+        "purple": "Check",
+        "blue": "None"
+    },
+    {
+        "class": "Tank",
+        "orange": "Check",
+        "purple": "Check",
+        "blue": "Check"
+    },
+    {
+        "class": "Mage",
+        "orange": "Check",
+        "purple": "Check",
+        "blue": "Check"
+    },
+    {
+        "class": "Healer",
+        "orange": "None",
+        "purple": "Check",
+        "blue": "Check"
+    }
+
+]
