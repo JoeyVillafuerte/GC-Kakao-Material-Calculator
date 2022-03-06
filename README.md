@@ -30,6 +30,7 @@ npm start
 - Specify how many of each coloured shard are required
 - Ticket calculations for entering boss dungeon
 - Add graphics/pictures as aesthetics
+- Fix hamburger dropdown, currently does not function when screen is resized
 
 
 
